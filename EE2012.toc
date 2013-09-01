@@ -1,0 +1,116 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Über \dots }{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}\dots {} dieses Heft}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}\dots {} uns}{3}{subsection.1.2}
+\contentsline {paragraph}{Was ist eine Fachschaft?}{3}{section*.2}
+\contentsline {paragraph}{Was macht die Fachschaft?}{3}{section*.3}
+\contentsline {paragraph}{Wie machen die das?}{3}{section*.4}
+\contentsline {paragraph}{Ich will mitmachen! Wie?}{4}{section*.5}
+\contentsline {paragraph}{Wie kann ich euch erreichen?}{4}{section*.6}
+\contentsline {paragraph}{Andere Fachschaften}{4}{section*.7}
+\contentsline {section}{\numberline {2}Computer und Internet}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Online-Dienste der LMU}{5}{subsection.2.1}
+\contentsline {paragraph}{Online-Selbstbedienungsfunktionen}{5}{section*.8}
+\contentsline {paragraph}{CAMPUS LMU}{5}{section*.9}
+\contentsline {paragraph}{Vorlesungsverzeichnis}{5}{section*.10}
+\contentsline {paragraph}{UniWorX (Informatik, Medieninformatik)}{5}{section*.11}
+\contentsline {paragraph}{Prüfungsverwaltungs- und Informationssystem (PVI)}{5}{section*.12}
+\contentsline {subsection}{\numberline {2.2}E-Mail}{6}{subsection.2.2}
+\contentsline {paragraph}{Für alle LMU-Studierende}{6}{section*.13}
+\contentsline {paragraph}{Informatik und MedienInformatik}{6}{section*.14}
+\contentsline {paragraph}{Physik und Meteorologie}{6}{section*.15}
+\contentsline {paragraph}{Mathematik und Wirtschaftsmathematik}{6}{section*.16}
+\contentsline {subsection}{\numberline {2.3}CIP-Pools}{7}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Internet: WLAN, VPN und Eduroam}{7}{subsection.2.4}
+\contentsline {paragraph}{Eduroam}{7}{section*.17}
+\contentsline {paragraph}{LRZ}{7}{section*.18}
+\contentsline {paragraph}{Microsoft DreamSpark}{8}{section*.19}
+\contentsline {paragraph}{Proxyeinrichtung}{8}{section*.20}
+\contentsline {section}{\numberline {3}Vorlesungszeit}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}Wie bastelt man einen Stundenplan?}{9}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Zusatz-Angebote}{9}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Zentraler Hochschulsport (ZHS)}{10}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Essen}{10}{subsection.3.4}
+\contentsline {section}{\numberline {4}Vorlesungsfreie Zeit}{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}Klausuren, Protokolle und Skripte}{11}{subsection.4.1}
+\contentsline {section}{\numberline {5}Bibliotheken}{12}{section.5}
+\contentsline {subsection}{\numberline {5.1}Bücher}{12}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Recherche im OPAC}{12}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Verhalten in der Bibliothek}{12}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Ausleihe}{12}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Die wichtigsten Bibliotheken für dich}{13}{subsection.5.5}
+\contentsline {paragraph}{Bibliothek für Mathematik, Physik und Meteorologie}{13}{section*.21}
+\contentsline {paragraph}{Bibliothek in der Oettingenstr.}{13}{section*.22}
+\contentsline {paragraph}{Zentralbibliothek der LMU}{13}{section*.23}
+\contentsline {paragraph}{Bibliothek der TUM in der Innenstadt}{13}{section*.24}
+\contentsline {paragraph}{Bayerische Staatsbibliothek (Stabi)}{13}{section*.25}
+\contentsline {paragraph}{Bibliothek des Deutschen Museums}{13}{section*.26}
+\contentsline {paragraph}{Münchener Stadtbibliothek (Hauptstelle am Gasteig)}{14}{section*.27}
+\contentsline {section}{\numberline {6}Café Gumbel}{15}{section.6}
+\contentsline {section}{\numberline {7}Hilfe und Beratung}{16}{section.7}
+\contentsline {subsection}{\numberline {7.1}Erste Hilfe: GAF}{16}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Probleme mit Lehrveranstaltungen oder Lehrpersonal}{16}{subsection.7.2}
+\contentsline {paragraph}{Für die Fakultät 16 (Mathe, Info, Statistik)}{16}{section*.28}
+\contentsline {paragraph}{Für die Fakultät 17 (Physik und Meteorologie)}{16}{section*.29}
+\contentsline {subsection}{\numberline {7.3}Webforen}{16}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Ansprechpartner}{16}{subsection.7.4}
+\contentsline {paragraph}{Mathematik (B.Sc., LA Gymnasium)}{17}{section*.30}
+\contentsline {paragraph}{Wirtschaftsmathematik (B.Sc.)}{17}{section*.31}
+\contentsline {paragraph}{Mathematik (LA Grund-, Haupt-, und Realschule)}{17}{section*.32}
+\contentsline {paragraph}{Mathematik (Fachdidaktik und Didaktik)}{17}{section*.33}
+\contentsline {paragraph}{Informatik (B.Sc.)}{17}{section*.34}
+\contentsline {paragraph}{Informatik (LA)}{17}{section*.35}
+\contentsline {paragraph}{Medieninformatik (B.Sc.)}{17}{section*.36}
+\contentsline {paragraph}{Physik (B.Sc.)}{17}{section*.37}
+\contentsline {paragraph}{Physik plus Meteorologie (B.Sc.)}{18}{section*.38}
+\contentsline {paragraph}{Physik (LA)}{18}{section*.39}
+\contentsline {subsection}{\numberline {7.5}Prüfungsamt}{18}{subsection.7.5}
+\contentsline {subsection}{\numberline {7.6}Studentenkanzlei}{19}{subsection.7.6}
+\contentsline {subsection}{\numberline {7.7}Gleichstellungsbeauftragte}{19}{subsection.7.7}
+\contentsline {subsection}{\numberline {7.8}Frauenbeauftragte der Fakultäten}{19}{subsection.7.8}
+\contentsline {subsection}{\numberline {7.9}Studieren mit Kind}{19}{subsection.7.9}
+\contentsline {subsection}{\numberline {7.10}Studieren mit Behinderung}{20}{subsection.7.10}
+\contentsline {subsection}{\numberline {7.11}Kirchliche Beratung}{20}{subsection.7.11}
+\contentsline {paragraph}{Katholische Hochschulgemeinde (KHG)}{20}{section*.40}
+\contentsline {paragraph}{Evangelische Hochschulgemeinde (ESG)}{20}{section*.41}
+\contentsline {subsection}{\numberline {7.12}Psychosoziale Beratung}{20}{subsection.7.12}
+\contentsline {subsection}{\numberline {7.13}Sonstige Beratung des Studentenwerks}{20}{subsection.7.13}
+\contentsline {section}{\numberline {8}Ausland und Praktika}{21}{section.8}
+\contentsline {subsection}{\numberline {8.1}Auslandsstudium}{21}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Praktikum im In- und Ausland}{21}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Finanzierung}{21}{subsection.8.3}
+\contentsline {section}{\numberline {9}Geld}{23}{section.9}
+\contentsline {subsection}{\numberline {9.1}Studienbeitrag}{23}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Jobben}{23}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}BAföG}{24}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}Stipendien}{24}{subsection.9.4}
+\contentsline {section}{\numberline {10}Krankenversicherung für Studenten}{25}{section.10}
+\contentsline {paragraph}{Ich bin Student und meine Eltern sind gesetzlich krankenversichert}{25}{section*.42}
+\contentsline {paragraph}{Ich bin Student und meine Eltern sind privat krankenversichert}{25}{section*.43}
+\contentsline {paragraph}{Ich bin Student und verdiene mehr als 350~€ im Monat}{25}{section*.44}
+\contentsline {paragraph}{Ich bin Student und über 25}{25}{section*.45}
+\contentsline {paragraph}{Ich bin Student und über 30}{26}{section*.46}
+\contentsline {paragraph}{Studenten-Krankenversicherung in der gesetzlichen Krankenkasse}{26}{section*.47}
+\contentsline {paragraph}{Studenten-Krankenversicherung in der privaten Krankenkasse}{26}{section*.48}
+\contentsline {section}{\numberline {11}Ankommen in München}{27}{section.11}
+\contentsline {subsection}{\numberline {11.1}Ummeldung / Zweitwohnsitz}{27}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Mülltrennung}{27}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}GEZ}{27}{subsection.11.3}
+\contentsline {subsection}{\numberline {11.4}Rundfunkbeitrag}{27}{subsection.11.4}
+\contentsline {subsection}{\numberline {11.5}Wohnen}{27}{subsection.11.5}
+\contentsline {paragraph}{WGs gibt es reichlich, sucht hier:}{28}{section*.49}
+\contentsline {paragraph}{Selbst mieten}{28}{section*.50}
+\contentsline {section}{\numberline {12}Fortbewegung}{29}{section.12}
+\contentsline {subsection}{\numberline {12.1}Fahrrad}{29}{subsection.12.1}
+\contentsline {paragraph}{Hier noch ein paar Tipps für den Münchner Straßenverkehr:}{29}{section*.51}
+\contentsline {subsection}{\numberline {12.2}MVV}{30}{subsection.12.2}
+\contentsline {paragraph}{Mit den öffentlichen Verkehrsmitteln in die Uni}{30}{section*.52}
+\contentsline {paragraph}{Kosten}{30}{section*.53}
+\contentsline {subsection}{\numberline {12.3}Auto}{30}{subsection.12.3}
+\contentsline {section}{\numberline {13}Gebäudeübersichten}{31}{section.13}
+\contentsline {subsection}{\numberline {13.1}Theresienstr. -- Mathebau}{31}{subsection.13.1}
+\contentsline {subsection}{\numberline {13.2}Oettingenstraße -- Erdgeschoss}{32}{subsection.13.2}
+\contentsline {subsection}{\numberline {13.3}Schellingstr. 4 -- Physik}{33}{subsection.13.3}
+\contentsline {subsection}{\numberline {13.4}Hauptgebäude}{33}{subsection.13.4}
+\contentsline {section}{\numberline {14}Rätselseite}{34}{section.14}
+\contentsline {section}{\numberline {15}Abkürzungen}{35}{section.15}
